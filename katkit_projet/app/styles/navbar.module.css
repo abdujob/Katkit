@@ -1,3 +1,7 @@
+.body {
+  background-color: aqua;
+}
+
 .nav {
   padding: 1rem;
 }
@@ -7,6 +11,7 @@
   display: flex;
   gap: 1rem;
   padding: auto;
+  justify-content: space-between;
 }
 
 .li {

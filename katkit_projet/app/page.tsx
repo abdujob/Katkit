@@ -1,10 +1,13 @@
 import React from "react";
 import Navbar from "./Navbar";
+import styles from "./styles/navbar.module.css";
 
 export default function () {
   return (
     <>
-      <Navbar></Navbar>
+      <div className={styles.body}>
+        <Navbar></Navbar>
+      </div>
     </>
   );
 }
