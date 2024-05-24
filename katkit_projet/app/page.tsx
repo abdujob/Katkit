@@ -7,7 +7,8 @@ export default function () {
     <>
       <div className={styles.body}>
         <Navbar></Navbar>
+        
       </div>
     </>
   );
-}
+} 
