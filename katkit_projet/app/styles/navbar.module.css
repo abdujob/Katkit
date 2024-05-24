@@ -1,0 +1,27 @@
+.body {
+  background-color: aqua;
+}
+
+.nav {
+  padding: 1rem;
+}
+
+.ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  padding: auto;
+  justify-content: space-between;
+}
+
+.li {
+  margin: 0;
+}
+
+.a {
+  text-decoration: none;
+}
+
+.a:hover {
+  text-decoration: underline;
+}
