@@ -1,4 +1,4 @@
-import styles from "/home/annour/Bureau/katkit_projet/katkit/app/styles/register.module.css";
+import styles from "../../styles/register.module.css";
 import Link from "next/link";
 
 export default function () {
